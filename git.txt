@@ -1,4 +1,4 @@
-i am smallfish,it was the first times using git!
+i am smallfish,it was the first times using git! master test!
 i love YangTing!
 Git:
 	git add
