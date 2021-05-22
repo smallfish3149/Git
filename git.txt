@@ -1,2 +1,8 @@
 i am smallfish,it was the first times using git!
 i love YangTing!
+Git:
+	git add
+	git commit -m "xxx"
+	git reflog
+	git log
+	git reset --hard 版本号
