@@ -16,4 +16,6 @@ remote
 	git remote -v 		查看当前别名
 	git remote add Git https://github.com/smallfish3149/Git.git	创建别名
 	git push 别名 分支	推送本地分支到远程库
-	git pull 别名 分支	
+	git pull 别名 分支	拉取远程库
+	git clone 链接地址	克隆到本地(公共库不需要登录)
+				拉取代码，初始化本地仓库，创建别名	
