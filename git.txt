@@ -12,4 +12,7 @@ Branch
 	git branch -v 		查看分支
 	git checkout 分支名	切换分支
 	git merge 分支名	把指定分支合并到当前分支上
-
+remote
+	git remote -v 		查看当前别名
+	git remote add Git https://github.com/smallfish3149/Git.git	创建别名
+	git push 别名 分支	推送本地分支到远程库
